@@ -1,0 +1,15 @@
+.container {
+  background-color: #5882FA;
+}
+body {
+  background-color: #2E2EFE;
+}
+.checkboxNein {
+  margin-left: 20px;
+}
+.checkboxVielleicht {
+  margin-left: 20px;
+}
+h1 {
+  text-align: center;
+}
